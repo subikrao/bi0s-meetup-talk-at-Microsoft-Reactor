@@ -1,2 +1,2 @@
-# bi0s-meetup-talk-at-Microsoft-Reactor
+# My talk on Snake Malware family
 This repository contains the slides deck that I used during my talk at the 9th bi0s cybersecurity meetup, held at Microsoft Reactor, Bengaluru, Karnataka, India on 19th October 2024.
